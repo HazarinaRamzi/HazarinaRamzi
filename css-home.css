@@ -1,0 +1,63 @@
+/* GENERAL STYLING OF ELEMENTS */
+body {
+	background-image: url('image/cover5.png');
+ 	background-repeat: no-repeat;
+ 	background-attachment: fixed;
+ 	background-size: 100%;
+	font: 100% Geneva, Tahoma, Verdana, sans-serif;
+}
+	{width: 43em;
+	margin: 0 auto;
+}
+
+
+.page {
+	color: #800033;
+	line-height: 1.45;
+	padding: 1px 1.875em .7em;
+}
+
+ul {
+
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #998282;
+}
+
+a {
+  float: mid;
+}
+
+a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #FF70A8;
+}
+
+
+a:link {color:yellow;
+  text-decoration:none;}
+
+
+a:visited {color:#B4FFFF;
+  text-decoration:none;}
+
+
+a:hover {color:#FFFCD6;
+  text-decoration:underline;
+  font-size:20px;}
+
+
+.footer p{
+  font-family: "Times New Roman", Times, serif;
+	text-align: center;
+}
+
